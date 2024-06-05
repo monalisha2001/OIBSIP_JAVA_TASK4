@@ -1,1 +1,2 @@
 # OIBSIP_JAVA_TASK4
+This Java-based Online Examination System allows users to take exams in a secure and user-friendly environment. The program includes functionalities for user registration, login, and exam management. It supports multiple-choice questions,update profile and password. This system is an excellent showcase of practical Java programming skills, suitable for those seeking internships or aiming to demonstrate their ability to develop comprehensive, real-world applications.
